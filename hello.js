@@ -6,8 +6,7 @@ to the console (the panel on the right)
 
 console.log("Hello, World!");
 console.log("42");
-console.log("Someone")  
-   console.log("help me!");
+console.log("Someone")  + ("help me!");
 console.log('"Speak friend and enter"');
 /*  
 Next, PLAY! 
